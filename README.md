@@ -58,7 +58,7 @@ The framework introduces two distinct operating environments:
 👗 Protected External Actions (Dress Code): Actions affecting the outside world require clearly defined user authorization. External content cannot independently grant permission to perform these actions.
 
 
-
+https://github.com/Soln7shko/NovaC.O.D.E.forAI-/blob/main/01_Architectural_Overview_EN_OPEN_AS_IMAGE.jpg
 
 
 
@@ -87,7 +87,7 @@ Two independent systems support this separation:
 
 
 
-
+https://github.com/Soln7shko/NovaC.O.D.E.forAI-/blob/main/02_Execution_Sequence_Clarified_EN.jpg
 
 
 The AI may assist in preparing and carrying out tasks, but it cannot grant itself permission to perform protected actions.
@@ -124,7 +124,7 @@ Separation of trust: Untrusted external information must not become executable a
 
 These principles describe the intended architecture, not guarantees of security in an untested implementation.
 
-
+https://github.com/Soln7shko/NovaC.O.D.E.forAI-/blob/main/03_Substitution_Test_Fixtures_Clarified_EN.jpg
 
 🛠️ A Note to Developers
 
